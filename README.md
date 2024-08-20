@@ -9,4 +9,4 @@ Some exploratory data analysis (EDA) applications on Formula 1 data set. This da
 
 # License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
